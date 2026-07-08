@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/omprakash0224/leetcode-solutions/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/omprakash0224/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/omprakash0224/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
