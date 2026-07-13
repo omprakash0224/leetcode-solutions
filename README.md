@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/omprakash0224/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/omprakash0224/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0090-subsets-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/omprakash0224/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omprakash0224/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
