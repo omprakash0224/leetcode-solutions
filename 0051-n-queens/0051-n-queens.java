@@ -3,37 +3,36 @@ class Solution {
         List<List<String>> result = new ArrayList<>();
         char[][] board = new char[n][n];
         for (char[] row : board) Arrays.fill(row, '.');
-        Set<Integer> cols = new HashSet<>();
-        Set<Integer> diag1 = new HashSet<>(); // row + col
-        Set<Integer> diag2 = new HashSet<>(); //row-col
-        backtrack(0, n, board, cols, diag1, diag2, result);
+        backtrack(result, board, 0);
         return result;
     }
-    private void backtrack(int row, int n, char[][] board, Set<Integer> cols, Set<Integer> diag1, Set<Integer> diag2, List<List<String>> result){
-        if(row == n){
+     private void backtrack(List<List<String>> result, char[][] board, int row) {
+        if (row == board.length) {
             result.add(construct(board));
             return;
         }
-
-        for(int col=0; col < n; col++){
-            if(cols.contains(col) || diag1.contains(row+col) || diag2.contains(row-col)){
-               continue; 
+        for (int col = 0; col < board.length; col++) {
+            if (isSafe(board, row, col)) {
+                board[row][col] = 'Q';
+                backtrack(result, board, row + 1);
+                board[row][col] = '.';
             }
-
-            //place queen
-            board[row][col] = 'Q';
-            cols.add(col);
-            diag1.add(row+col);
-            diag2.add(row-col);
-
-            backtrack(row+1, n, board, cols, diag1, diag2, result);
-
-            //remove queen
-            board[row][col] = '.';
-            cols.remove(col);
-            diag1.remove(row+col);
-            diag2.remove(row-col);
         }
+    }
+    private boolean isSafe(char[][] board, int row, int col) {
+        // check column
+        for (int i = 0; i < row; i++) {
+            if (board[i][col] == 'Q') return false;
+        }
+        // check upper-left diagonal
+        for (int i = row-1, j = col-1; i>=0 && j>=0; i--, j--) {
+            if (board[i][j] == 'Q') return false;
+        }
+        // check upper-right diagonal
+        for (int i = row-1, j = col+1; i>=0 && j<board.length; i--, j++) {
+            if (board[i][j] == 'Q') return false;
+        }
+        return true;
     }
     private List<String> construct(char[][] board){
         List<String> result = new ArrayList<>();
