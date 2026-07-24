@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/omprakash0224/leetcode-solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/omprakash0224/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/omprakash0224/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/omprakash0224/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omprakash0224/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -233,5 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
