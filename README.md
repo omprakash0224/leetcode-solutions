@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/omprakash0224/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omprakash0224/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1046-last-stone-weight](https://github.com/omprakash0224/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/omprakash0224/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
