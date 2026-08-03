@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/omprakash0224/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/omprakash0224/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/omprakash0224/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omprakash0224/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/omprakash0224/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
