@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/omprakash0224/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/omprakash0224/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/omprakash0224/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -387,9 +389,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/omprakash0224/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/omprakash0224/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
