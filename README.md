@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/omprakash0224/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/omprakash0224/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
