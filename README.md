@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omprakash0224/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0994-rotting-oranges](https://github.com/omprakash0224/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/omprakash0224/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/omprakash0224/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/omprakash0224/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/omprakash0224/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/omprakash0224/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/omprakash0224/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -490,4 +495,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
