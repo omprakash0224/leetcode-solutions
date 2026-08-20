@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/omprakash0224/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omprakash0224/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/omprakash0224/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/omprakash0224/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/omprakash0224/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/omprakash0224/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/omprakash0224/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/omprakash0224/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omprakash0224/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/omprakash0224/leetcode-solutions/tree/master/0322-coin-change) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omprakash0224/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/omprakash0224/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/omprakash0224/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omprakash0224/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/omprakash0224/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/omprakash0224/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/omprakash0224/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/omprakash0224/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/omprakash0224/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omprakash0224/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omprakash0224/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -578,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/omprakash0224/leetcode-solutions/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/omprakash0224/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
