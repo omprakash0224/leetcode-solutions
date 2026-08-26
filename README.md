@@ -265,12 +265,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omprakash0224/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/omprakash0224/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omprakash0224/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/omprakash0224/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/omprakash0224/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
