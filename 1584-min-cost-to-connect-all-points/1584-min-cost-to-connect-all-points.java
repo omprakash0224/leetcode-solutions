@@ -1,38 +1,36 @@
 class Solution {
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
+        
+        int[] minDist = new int[n];
+        Arrays.fill(minDist, Integer.MAX_VALUE);
+        minDist[0] = 0; // Start with node 0 at cost 0
+        
         boolean[] inMST = new boolean[n];
-        
-        // PriorityQueue store karega: [cost, nodeIndex]
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(a[0], b[0]));
-        
-        // Node 0 se shuru karte hain, cost = 0
-        pq.offer(new int[]{0, 0});
-        
         int totalCost = 0;
-        int edgesUsed = 0;
         
-        while (edgesUsed < n && !pq.isEmpty()) {
-            int[] curr = pq.poll();
-            int cost = curr[0];
-            int u = curr[1];
+        for (int step = 0; step < n; step++) {
+            int u = -1;
             
-            // Agar node pehle se MST ka part hai to skip karein
-            if (inMST[u]) {
-                continue;
+            // Step 1: Find unvisited node with minimum distance to current MST
+            for (int i = 0; i < n; i++) {
+                if (!inMST[i] && (u == -1 || minDist[i] < minDist[u])) {
+                    u = i;
+                }
             }
             
-            // MST mein include karein
+            // Step 2: Add node u to MST
             inMST[u] = true;
-            totalCost += cost;
-            edgesUsed++;
+            totalCost += minDist[u];
             
-            // Unvisited neighbors ka distance calculate karke PQ mein push karein
+            // Step 3: Update minimum distance for all remaining unvisited neighbors
             for (int v = 0; v < n; v++) {
                 if (!inMST[v]) {
                     int dist = Math.abs(points[u][0] - points[v][0]) 
                              + Math.abs(points[u][1] - points[v][1]);
-                    pq.offer(new int[]{dist, v});
+                    if (dist < minDist[v]) {
+                        minDist[v] = dist;
+                    }
                 }
             }
         }
