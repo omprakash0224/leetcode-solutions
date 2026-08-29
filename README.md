@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omprakash0224/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/omprakash0224/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omprakash0224/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/omprakash0224/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1143-longest-common-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omprakash0224/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/omprakash0224/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -670,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
