@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/omprakash0224/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/omprakash0224/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1626-best-team-with-no-conflicts](https://github.com/omprakash0224/leetcode-solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omprakash0224/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/omprakash0224/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1626-best-team-with-no-conflicts](https://github.com/omprakash0224/leetcode-solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Breadth-First Search
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1626-best-team-with-no-conflicts](https://github.com/omprakash0224/leetcode-solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/omprakash0224/leetcode-solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## Longest Common Subsequence
 |  |
 | ------- |
