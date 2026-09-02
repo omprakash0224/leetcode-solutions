@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/omprakash0224/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/omprakash0224/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/omprakash0224/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omprakash0224/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0994-rotting-oranges](https://github.com/omprakash0224/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omprakash0224/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/omprakash0224/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -719,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/omprakash0224/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
