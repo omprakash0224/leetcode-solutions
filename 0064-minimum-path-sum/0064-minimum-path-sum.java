@@ -1,28 +1,27 @@
 class Solution {
     public int minPathSum(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        
-        int[][] dp = new int[m][n];
-        dp[0][0] = grid[0][0];
-        
-        // Fill first row
-        for (int j = 1; j < n; j++) {
-            dp[0][j] = dp[0][j-1] + grid[0][j];
+        Integer[][] dp = new Integer[grid.length][grid[0].length];
+        return minPathSum(grid, dp, grid.length, grid[0].length, 0, 0);
+    }
+    private int minPathSum(int[][] grid, Integer[][] dp, int m, int n, int i, int j) {
+        if (i == m-1 && j == n-1) {
+            return grid[i][j]; // base case
         }
-        
-        // Fill first column
-        for (int i = 1; i < m; i++) {
-            dp[i][0] = dp[i-1][0] + grid[i][0];
+
+        if (dp[i][j] != null) {
+            return dp[i][j]; // memoization check
         }
-        
-        // Fill rest of the grid
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                dp[i][j] = grid[i][j] + Math.min(dp[i-1][j], dp[i][j-1]);
-            }
+
+        int downSum = Integer.MAX_VALUE;
+        if (i+1 < m) {
+            downSum = grid[i][j] + minPathSum(grid, dp, m, n, i+1, j);
         }
-        
-        return dp[m-1][n-1];
+
+        int rightSum = Integer.MAX_VALUE;
+        if (j+1 < n) {
+            rightSum = grid[i][j] + minPathSum(grid, dp, m, n, i, j+1);
+        }
+
+        return dp[i][j] = Math.min(downSum, rightSum);
     }
 }
