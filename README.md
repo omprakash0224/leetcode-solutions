@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/omprakash0224/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/omprakash0224/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/omprakash0224/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/omprakash0224/leetcode-solutions/tree/master/0322-coin-change) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/omprakash0224/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/omprakash0224/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/omprakash0224/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/omprakash0224/leetcode-solutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/omprakash0224/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/omprakash0224/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/omprakash0224/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [1510-stone-game-iv](https://github.com/omprakash0224/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/omprakash0224/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -714,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -727,5 +731,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
