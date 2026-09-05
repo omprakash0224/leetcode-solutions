@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omprakash0224/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/omprakash0224/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0887-super-egg-drop](https://github.com/omprakash0224/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omprakash0224/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/omprakash0224/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0887-super-egg-drop](https://github.com/omprakash0224/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1510-stone-game-iv](https://github.com/omprakash0224/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/omprakash0224/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/omprakash0224/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0887-super-egg-drop](https://github.com/omprakash0224/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/omprakash0224/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/omprakash0224/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
