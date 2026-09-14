@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/omprakash0224/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0836-rectangle-overlap](https://github.com/omprakash0224/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/omprakash0224/leetcode-solutions/tree/master/0887-super-egg-drop) |
 | [1510-stone-game-iv](https://github.com/omprakash0224/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -762,4 +763,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/omprakash0224/leetcode-solutions/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/omprakash0224/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
