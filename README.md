@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/omprakash0224/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1626-best-team-with-no-conflicts](https://github.com/omprakash0224/leetcode-solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omprakash0224/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/omprakash0224/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/omprakash0224/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omprakash0224/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/omprakash0224/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omprakash0224/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omprakash0224/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/omprakash0224/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/omprakash0224/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/omprakash0224/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omprakash0224/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
