@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/omprakash0224/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/omprakash0224/leetcode-solutions/tree/master/0887-super-egg-drop) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/omprakash0224/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/omprakash0224/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omprakash0224/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -784,4 +785,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/omprakash0224/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/omprakash0224/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
