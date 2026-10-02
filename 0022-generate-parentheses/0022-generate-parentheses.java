@@ -4,17 +4,17 @@ class Solution {
         backTrack(result, "", 0, 0, n);
         return result;
     }
-    public void backTrack(List<String> result, String current, int open, int close, int n){
+    private void backTrack(List<String> result, String current, int open, int close, int n){
         if(current.length() == 2*n){
             result.add(current);
             return;
         }
 
-        if (open < n) {
+        if(open < n){
             backTrack(result, current + "(", open + 1, close, n);
         }
-        
-        if (close < open) {
+
+        if(close < open){
             backTrack(result, current + ")", open, close + 1, n);
         }
     }
