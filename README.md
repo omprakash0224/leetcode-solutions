@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/omprakash0224/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1872-stone-game-viii](https://github.com/omprakash0224/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omprakash0224/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omprakash0224/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1626-best-team-with-no-conflicts](https://github.com/omprakash0224/leetcode-solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/omprakash0224/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omprakash0224/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/omprakash0224/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/omprakash0224/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/omprakash0224/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/omprakash0224/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/omprakash0224/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
