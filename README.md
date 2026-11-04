@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/omprakash0224/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/omprakash0224/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/omprakash0224/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/omprakash0224/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/omprakash0224/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/omprakash0224/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/omprakash0224/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/omprakash0224/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/omprakash0224/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/omprakash0224/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/omprakash0224/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/omprakash0224/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
