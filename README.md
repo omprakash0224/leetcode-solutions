@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/omprakash0224/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/omprakash0224/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/omprakash0224/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/omprakash0224/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/omprakash0224/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/omprakash0224/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omprakash0224/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/omprakash0224/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/omprakash0224/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/omprakash0224/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
