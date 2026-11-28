@@ -923,4 +923,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/omprakash0224/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/omprakash0224/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/omprakash0224/leetcode-solutions/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/omprakash0224/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
